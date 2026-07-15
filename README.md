@@ -21,3 +21,5 @@ The dataset is ideal for building and evaluating machine learning models like Lo
     Machine learning classification projects
 
 This dataset supports responsible lending analysis and helps in developing accurate, data-driven decision systems. 
+
+https://www.kaggle.com/datasets/nazishjaveed/credit-card-application
