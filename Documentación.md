@@ -38,7 +38,9 @@ Para levantar el sistema en cualquier entorno local, asegúrese de tener instala
 2. **Dependencias:**
    ```bash
    pip install streamlit pandas joblib plotly scikit-learn
+Archivos: Verifique que todos los archivos **.joblib** se encuentren en la raíz del proyecto junto a App.py.
 
+Lanzamiento: Ejecute el servidor de Streamlit:
 Para lanzar el dashboard, dentro de la raíz del proyecto, se hace
 ```bash 
   streamlit run App.py
